@@ -61,7 +61,7 @@ body::-webkit-scrollbar-track {
 }
 
 .navbar {
-    padding: 1em;
+    padding: 0.5em;
     justify-content: center;
     width: 100%;
     top: 36px;
