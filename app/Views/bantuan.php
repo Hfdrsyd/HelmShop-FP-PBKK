@@ -25,7 +25,7 @@
         <p class="text-center mb-5">Hubungi kami untuk segala pertanyaan Anda</p>
         <div class="row">
             <div class="col-md-4 mb-3">
-                <a href="https://api.whatsapp.com/send/?phone=6282112614370&text&app_absent=0" class="text-dark">
+                <a href="https://api.whatsapp.com/send/?phone=6289681061300&text&app_absent=0" class="text-dark">
                     <div class="card">
                         <div class="card-body text-center">
                             <i class='bx bxl-whatsapp'></i>
@@ -34,7 +34,7 @@
                 </a>
             </div>
             <div class="col-md-4 mb-3">
-                <a href="https://www.facebook.com/helmku" class="text-dark">
+                <a href="https://www.facebook.com/Hmd" class="text-dark">
                     <div class="card">
                         <div class="card-body text-center">
                             <i class='bx bxl-facebook-circle'></i>
@@ -43,7 +43,7 @@
                 </a>
             </div>
             <div class="col-md-4">
-               <a href="https://instagram.com/helmku" class="text-dark">
+               <a href="https://instagram.com/hq_lco" class="text-dark">
                 <div class="card">
                         <div class="card-body text-center">
                             <i class='bx bxl-instagram' ></i>
