@@ -7,7 +7,7 @@
 <?= $this->section('content') ?>
 <section class="section-pages">
     <div class="pages-wrapper">
-        <h4 class="mb-4 fw-bold">Produk HELMKU</h4>
+        <h4 class="mb-4 fw-bold">Produk HELMSHOP</h4>
         <div class="row d-flex justify-content-between">
             <div class="col-md-6 col-sm-6 col-lg-4 mb-3">
                 <select class="form-select kategori d-inline" id="kategoriS">

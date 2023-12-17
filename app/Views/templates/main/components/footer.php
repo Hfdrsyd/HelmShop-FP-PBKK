@@ -1,10 +1,10 @@
-<footer class="d-flex justify-content-center">
+<footer class="d-flex justify-content-center" style="background-color: #e8e9eb;">
     <div class="footer-wrapper d-flex">
         <div class="footer-list">
             <ul class="p-0">
                 <li>More</li>
                 <li><a href="#" class="text-decoration-none">Home</a></li>
-                <li><a href="#" class="text-decoration-none">helm</a></li>
+                <li><a href="#" class="text-decoration-none">Helm</a></li>
                 <li><a href="#" class="text-decoration-none">Kids</a></li>
                 <li><a href="#" class="text-decoration-none">Apparel</a></li>
             </ul>
