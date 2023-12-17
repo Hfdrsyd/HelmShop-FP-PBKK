@@ -1,4 +1,4 @@
-<footer class="d-flex justify-content-center" style="background-color: #e8e9eb;">
+<footer class="d-flex justify-content-center">
     <div class="footer-wrapper d-flex">
         <div class="footer-list">
             <ul class="p-0">
