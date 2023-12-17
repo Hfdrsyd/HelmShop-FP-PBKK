@@ -8,10 +8,10 @@ $uri3 = $uri[3] ?? '';
 <div class="main-sidebar">
     <aside id="sidebar-wrapper">
         <div class="sidebar-brand">
-        <a href="/dashboard">HELMKU</a>
+        <a href="/dashboard">HELMSHOP</a>
         </div>
         <div class="sidebar-brand sidebar-brand-sm">
-        <a href="/dashboard">HK</a>
+        <a href="/dashboard">HS</a>
         </div>
         <ul class="sidebar-menu">
             <li class="menu-header">Dashboard</li>

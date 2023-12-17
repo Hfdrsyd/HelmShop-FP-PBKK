@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-  <title><?= $title ?? '' ?> - HelmKu</title>
+  <title><?= $title ?? '' ?> - HelmShop</title>
   <link rel="icon" href="/assets/img/logo/logo.png" type="image/gif" sizes="16x16">
 
   <!-- General CSS Files -->
@@ -34,7 +34,7 @@
       
       <footer class="main-footer">
         <div class="footer-left">
-          Copyright &copy; 2021 <div class="bullet"></div> HelmKu
+          Copyright &copy; 2021 <div class="bullet"></div> HelmShop
         </div>
       </footer>
     </div>
