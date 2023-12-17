@@ -46,7 +46,7 @@
               </div>
             </div>
             <div class="simple-footer">
-              Copyright &copy; HelmKu 2021
+              Copyright &copy; HelmShop 2021
             </div>
           </div>
         </div>

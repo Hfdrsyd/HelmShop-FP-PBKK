@@ -1,10 +1,10 @@
-<section class="navbar bg-white d-flex align-items-center">
+<section class="navbar d-flex align-items-center" style="background-color: #e8e9eb;">
 	<div class="burger clickable">
 		<div class="line"></div>
 		<div class="line"></div>
 		<div class="line"></div>
 	</div>
-	<div class="header"><a href="/" class="text-decoration-none">HELMKU</a></div>
+	<div class="header"><a href="/" class="text-decoration-none">HELMSHOP</a></div>
 	<nav class="text-uppercase">
 		<ul class="d-flex justify-content-evenly m-0 p-0 list-unstyled">
 			<li><a href="/produk" class="text-decoration-none position-relative">Produk</a></li>
