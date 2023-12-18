@@ -63,8 +63,8 @@
                                 <p>Alamat</p>
                             </div>
                             <div class="col-md-6 col-6">
-                                <p class="mt-3"><?= $data_trx[0]['status'] == 'Sedang dikirim' && $data_trx[0]['status'] == 'Selesai' ? $data_trx[0]['kurir'] : '-' ?></p>
-                                <p><?= $data_trx[0]['status'] == 'Sedang dikirim' && $data_trx[0]['status'] == 'Selesai' ? $data_trx[0]['no_resi'] : '-' ?></p>
+                                <p class="mt-3"><?= $data_trx[0]['status'] == 'Sedang dikirim' || $data_trx[0]['status'] == 'Selesai' ? $data_trx[0]['kurir'] : '-' ?></p>
+                                <p><?= $data_trx[0]['status'] == 'Sedang dikirim' || $data_trx[0]['status'] == 'Selesai' ? $data_trx[0]['no_resi'] : '-' ?></p>
                                 <p><?= $data_trx[0]['alamat_jalan'] ?></p>
                             </div>
                         </div>
